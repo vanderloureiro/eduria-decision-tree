@@ -1,6 +1,6 @@
 package com.br.eduriadecisiontree.domain;
 
-public enum ChosenLevelEnum {
+public enum LevelEnum {
     
     EASY,
     MEDIUM,

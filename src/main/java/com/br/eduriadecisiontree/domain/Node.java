@@ -4,7 +4,7 @@ public abstract class Node {
 
     protected Node leftNode;
     protected Node rightNode;
-    protected ChosenLevelEnum chosenLevelEnum;
+    protected LevelEnum levelEnum;
     
     public Node verify(ReportCard reportCard) throws Exception { 
         return null;
@@ -26,12 +26,12 @@ public abstract class Node {
         return this.rightNode = node;
     }
 
-    public ChosenLevelEnum getChosenLevelEnum() {
-        return this.chosenLevelEnum;
+    public LevelEnum getLevelEnum() {
+        return this.levelEnum;
     }
 
-    public ChosenLevelEnum setChosenLevelEnum(ChosenLevelEnum level) {
-        return this.chosenLevelEnum = level;
+    public LevelEnum setLevelEnum(LevelEnum level) {
+        return this.levelEnum = level;
     }
 
 

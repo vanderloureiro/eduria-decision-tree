@@ -1,0 +1,13 @@
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/api/DataDTO.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/domain/DecisionTree.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/domain/Node.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/domain/ChosenLevelEnum.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/domain/ScoreNode.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/api/DataForm.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/domain/ReportCard.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/domain/FinalNode.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/domain/DecisionTreeService.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/domain/QttAnsweredNode.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/api/DecisionTreeController.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/config/SwaggerConfig.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/EduriaDecisionTreeApplication.java

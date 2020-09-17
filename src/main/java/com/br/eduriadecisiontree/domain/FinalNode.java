@@ -2,13 +2,13 @@ package com.br.eduriadecisiontree.domain;
 
 public class FinalNode extends Node {
 
-    public FinalNode(ChosenLevelEnum chosenLevelEnum) {
-        this.chosenLevelEnum = chosenLevelEnum;
+    public FinalNode(LevelEnum levelEnum) {
+        this.levelEnum = levelEnum;
     }
 
     @Override
     public Node verify(ReportCard reportCard) throws Exception {
-        throw new Exception(this.chosenLevelEnum.name());
+        throw new Exception(this.levelEnum.name());
     }
     
 }
