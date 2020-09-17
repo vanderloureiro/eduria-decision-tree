@@ -3,7 +3,6 @@ com/br/eduriadecisiontree/config/SwaggerConfig.class
 com/br/eduriadecisiontree/api/DataForm.class
 com/br/eduriadecisiontree/domain/QttAnsweredNode.class
 com/br/eduriadecisiontree/domain/ReportCard.class
-com/br/eduriadecisiontree/domain/ChosenLevelEnum.class
 com/br/eduriadecisiontree/domain/DecisionTree.class
 com/br/eduriadecisiontree/api/DataDTO.class
 com/br/eduriadecisiontree/domain/Node.class
