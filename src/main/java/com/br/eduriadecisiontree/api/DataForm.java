@@ -1,13 +1,13 @@
 package com.br.eduriadecisiontree.api;
 
-import com.br.eduriadecisiontree.domain.LevelEnum;
+import java.util.UUID;
 
 import lombok.Data;
 
 @Data
 public class DataForm {
     
-    private Long registerId;
+    private UUID registerUuid;
     private Long studentId;
     private Integer studentAge;
     private String courseName;
@@ -16,6 +16,7 @@ public class DataForm {
     private Integer hardQuestionsAnsweredCorrect;
     private Integer qttAllQuestionsAnswered;
     private Integer qttAllCourseQuestions;
-    private LevelEnum lastQuestionLevel;
-    private boolean lastQuestionWasAnsweredCorrect;
+    private Integer score;
+    private LevelQuestionEnum lastQuestionLevel;
+    private Boolean lastQuestionWasAnsweredCorrect;
 }

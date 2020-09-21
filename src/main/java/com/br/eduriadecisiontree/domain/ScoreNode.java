@@ -4,9 +4,9 @@ import java.util.function.Predicate;
 
 public class ScoreNode extends Node {
 
-    private Predicate<Double> predicate;
+    private Predicate<Integer> predicate;
 
-    public ScoreNode(Predicate<Double> predicate) {
+    public ScoreNode(Predicate<Integer> predicate) {
         this.predicate = predicate;
     }
 

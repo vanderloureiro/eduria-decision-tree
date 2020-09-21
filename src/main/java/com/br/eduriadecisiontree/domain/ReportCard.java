@@ -2,14 +2,14 @@ package com.br.eduriadecisiontree.domain;
 
 public class ReportCard {
 
-    private Double score;
+    private Integer score;
     private Integer qttQuestionsAnswered;
 
-    public void setScore(Double score) {
+    public void setScore(Integer score) {
         this.score = score;
     }
 
-    public Double getScore() {
+    public Integer getScore() {
         return this.score;
     }
     

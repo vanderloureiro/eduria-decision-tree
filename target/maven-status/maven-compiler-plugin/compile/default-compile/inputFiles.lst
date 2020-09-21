@@ -11,3 +11,4 @@
 /home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/api/DecisionTreeController.java
 /home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/config/SwaggerConfig.java
 /home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/EduriaDecisionTreeApplication.java
+/home/vanderlei/Workspace/ufc/eduria-decision-tree/src/main/java/com/br/eduriadecisiontree/api/LevelQuestionEnum.java
