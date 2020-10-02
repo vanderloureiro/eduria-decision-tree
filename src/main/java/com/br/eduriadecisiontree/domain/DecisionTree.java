@@ -11,7 +11,7 @@ public class DecisionTree {
     public void createTree() {
         Node n1 = new ScoreNode(p -> p < 40);
         Node n2 = new ScoreNode(p -> p < 70);
-        Node n3 = new QttAnsweredNode(p -> p < 20);
+        Node n3 = new QttAnsweredNode(p -> p < 12);
         Node n4 = new QttAnsweredNode(p -> p % 2 != 0); //odd
         Node n5 = new FinalNode(LevelEnum.EASY);
         Node n6 = new FinalNode(LevelEnum.MEDIUM);
